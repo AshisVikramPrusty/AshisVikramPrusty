@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshisVikramPrusty
-- 👀 I’m interested in Deep Learning, Artificial Intelligence and Electronics
-- 💞️ I’m looking to collaborate on projects involving Deep Learning and Electronics
+- 👀 My interests lie in Deep Learning, Artificial Intelligence and Electronics
+- 💞️ I’m looking forward to collaborate on projects involving Deep Learning and Electronics
 
 <!---
 AshisVikramPrusty/AshisVikramPrusty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
